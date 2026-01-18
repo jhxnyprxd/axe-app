@@ -27,7 +27,7 @@ st.markdown("""
         }
     });
     </script>
-    """, unsafe_allow_globals=True)
+    """, unsafe_allow_html=True)
 
 # --- INICIALIZAÇÃO DE APIs ---
 try:
